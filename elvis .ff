@@ -1,5 +1,4 @@
-store.xy4
-
+store.xy
 
 @app.teardown_appcontext
 def teardown_flask(exception):
